@@ -1,0 +1,67 @@
+[
+  {
+    "id": "1",
+    "gerecht": "Pizza Margherita",
+    "recept": "Make the dough, add tomato sauce, add your cheese & toppings and shove it in the oven. There you go, a delicious pizza!",
+    "ingredienten": [
+      "pizzadough",
+      "tomatosauce",
+      "toppings",
+      "cheese"
+    ],
+    "origin": "Italia",
+    "bereidingstijd": 60,
+    "favoriet": false
+  },
+  {
+    "id": "2",
+    "gerecht": "Spaghetti Carbonara",
+    "recept": "Cook the spaghetti in boiling water. Bake the bacon, add the cooking cream and mushrooms. Mix it all up and you're already done!",
+    "ingredienten": [
+      "spaghetti",
+      "cooking cream",
+      "bacon",
+      "mushrooms"
+    ],
+    "origin": "Italia",
+    "bereidingstijd": 30,
+    "favoriet": false
+  },
+  {
+    "id": "3",
+    "gerecht": "Oven Burritos",
+    "recept": "Cook the minced meat, add the onion. Add the salsa and veggies, and fill the burritos. Sprinkle it with cheese. Throw it in the oven for 25 minutes, and meet the most delicious burrito's ever.",
+    "ingredienten": [
+      "burritos",
+      "salsa sauce",
+      "minced meat",
+      "corn",
+      "onion",
+      "tomato",
+      "bell pepper",
+      "cucumber",
+      "lecutte",
+      "cheese"
+    ],
+    "origin": "Mexico",
+    "bereidingstijd": 45,
+    "favoriet": false
+  },
+  {
+    "id": "4",
+    "gerecht": "Flavourful Nachos",
+    "recept": "Cook the minced meat. Add the veggies, together with the taco spices. Fill an ovendish with the nachochips, sprinkle with cheese and apply the created sauce mixture all over the tacos. Apply some more cheese, and put it in the oven for 10 minutes. That's it!",
+    "ingredienten": [
+      "nachochips (natural)",
+      "minced meat",
+      "taco spices",
+      "bell pepper",
+      "onion",
+      "2 cloves of garlic",
+      "Cheddar cheese"
+    ],
+    "origin": "Mexico",
+    "bereidingstijd": 45,
+    "favoriet": false
+  }
+]
